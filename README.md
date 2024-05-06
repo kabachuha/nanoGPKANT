@@ -1,10 +1,19 @@
 # nanoGPKANT = nano + Generative + Pretrained + Kolmogorov-Arnold-Network + Transformer
 
-Playground hybrid of nanoGPT and kanformers for easier exploration and scaling laws
+-- which is an ironic reference to Emmanuel Kant because he wrote "Critique of Pure Reason"
 
-The plan is to train a simple 2 decoder transformer and see how it works
+Playground hybrid of nanoGPT and kanformers for easier exploration and scaling laws.
 
-nanoGPT https://github.com/karpathy/nanoGPT
+The plan is to train a simple downsided 2 decoder transformer and see how it works.
 
-kansformers https://github.com/akaashdash/kansformers
+## Early results:
 
+
+
+## Reused code:
+
+Big thanks to these amazing guys!
+
+nanoGPT https://github.com/karpathy/nanoGPT by Andrej Karpathy
+
+kansformers https://github.com/akaashdash/kansformers by Akaash Dash
