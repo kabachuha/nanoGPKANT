@@ -112,7 +112,7 @@ But is GPKANT really better? 🤔
 
 ## WANDB Validation loss comparison:
 
-!!!!!!!!!!!!! ADD PICTURE AS SOON AS IT'S PUBLISHED ON GITHUB
+![Val Loss comparison plots](https://raw.githubusercontent.com/kabachuha/nanoGPKANT/main/comparison-plot.png)
 
 Well, the KAN's progress is not looking very great here compared to the same-level GPTs.
 
