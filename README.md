@@ -1,8 +1,8 @@
 # nanoGPKANT = nano + Generative + Pretrained + Kolmogorov-Arnold-Network + Transformer
 
--- which is an ironic reference to Emmanuel Kant because he wrote "Critique of Pure Reason"
+-- which is an ironic reference to Emmanuel Kant because he wrote "Critique of Pure Reason".
 
-Playground hybrid of nanoGPT and kanformers for easier exploration and scaling laws.
+Structurally, a playground hybrid of nanoGPT and kanformers for easier exploration and maybe later scaling laws.
 
 We train a simple downsided 2 decoder kan-transformer and see how it works.
 
@@ -140,11 +140,11 @@ kansformers https://github.com/akaashdash/kansformers by Akaash Dash
 
 Also to the KAN paper authors: https://github.com/KindXiaoming/pykan
 
-The respective licenses situate in the file THIRD_PARTY_LICENSES.
+The respective licenses situate in the file THIRD_PARTY_LICENSES. (The code from this repo and from the aforementioned ones is MIT-licensed and you can use it basically everywhere.)
 
-And additional thanks to the original concept makers, Andrey Kolmogorov and Vladimir Arnold.
+And, of course, I want to say additional thanks to the original concept makers — Andrey Kolmogorov and Vladimir Arnold.
 
----
+## Future work:
 
 Feel free to give your ideas and suggestions. Let's see if we can improve KAN-based transformers.
 
