@@ -65,9 +65,7 @@ Number of parameters: 7.10M
 
 Peak training VRAM consumption = `5.791 GB`, 8 minutes.
 
-### Now let's see what nonsence our models have generated
-
-**nanoGPT**
+### Now let's see what nonsence our GPTKANT model has generated
 
 Let's see if our embryoGPKANT generated nonsence:
 
