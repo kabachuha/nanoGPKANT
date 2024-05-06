@@ -144,6 +144,14 @@ And, of course, I want to say additional thanks to the original concept makers â
 
 ## Future work:
 
+-> The first one: **extract spline plots and formulae from the KAN layers.**
+
+-> Measure perplexity.
+
+-> Train on larger datasets.
+
+-> ...
+
 Feel free to give your ideas and suggestions. Let's see if we can improve KAN-based transformers.
 
 ---
