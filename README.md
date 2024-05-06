@@ -2,7 +2,7 @@
 
 -- which is an ironic reference to Emmanuel Kant because he wrote "Critique of Pure Reason".
 
-Structurally, a playground hybrid of nanoGPT and kanformers for easier exploration and maybe later scaling laws.
+Structurally, a playground hybrid of `nanoGPT` and `kanformers` for easier exploration and maybe later scaling laws.
 
 We train a simple downsided 2 decoder kan-transformer and see how it works.
 
