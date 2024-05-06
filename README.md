@@ -4,7 +4,7 @@
 
 Structurally, a playground hybrid of `nanoGPT` and `kanformers` for easier exploration and maybe later scaling laws.
 
-We train a simple downsided 2 decoder kan-transformer and see how it works.
+We train a simple downsided 2 decoder kan-transformer and see how it works. (spoiler: not THAT good yet)
 
 ## Early results and observations:
 
