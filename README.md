@@ -10,7 +10,7 @@ We train a simple downsided 2 decoder kan-transformer and see how it works.
 
 Training instructions — see https://github.com/karpathy/nanoGPT/tree/master?tab=readme-ov-file#quick-start.
 
-### Shakespeare dataset:
+### Training on shakespeare dataset:
 
 Configs used:
 
